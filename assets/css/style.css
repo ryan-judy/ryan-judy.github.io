@@ -263,7 +263,7 @@ span.rps {
     left: 150px;
     top:50px;
     width: 650px;
-    padding: 40px 25px 25px 25px;
+    padding: 20px 25px 25px 25px;
     background-color: white;
     border-style: solid;
     border-color: #dddddd;
@@ -275,7 +275,7 @@ span.rps {
 	top: 50px;
 	left: 200px;
 	float: left;
-    padding: 40px 25px 35px 25px;
+    padding: 20px 25px 35px 25px;
     width: 270px;
     height: 160px;
     background-color: white;
